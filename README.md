@@ -21,3 +21,14 @@ This repository contains the tasks completed during my Artificial Intelligence I
 - Python
 - Pandas
 - Matplotlib
+
+## Task 3 - Machine Learning
+- Logistic Regression
+- Passenger Survival Prediction
+- Model Accuracy: 79.88%
+
+**Technologies Used:
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
